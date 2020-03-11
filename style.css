@@ -14,7 +14,7 @@ main {
     flex-wrap: wrap;
 }
  
-.base {
+.tredd {
     max-width: 1080px;
     min-width: 500px;
     margin: 0 auto;
@@ -24,13 +24,13 @@ header {
     width: 100%;
 }
  
-.image-div {
+.photodiv {
     position: relative;
     width: 126px;
     height: 126px;
 }
  
-.image-div img {
+.photodiv img {
     position: relative;
     width: 172px;
     height: 172px;
@@ -38,7 +38,7 @@ header {
     bottom: 29px;
 }
  
-.percent {
+.free{
     position: absolute;
     top:0;
     right: 0;
@@ -76,6 +76,7 @@ p .laos {
     flex: 50%;
     display: flex;
     min-width: 378px;
+    margin-top: 24px;
 }
 .avraam a {
     text-decoration: none;
@@ -95,7 +96,7 @@ p .laos {
     right:0;
 }
  
-.cost-first {
+.oneone {
     font-size: 16px;
 }
  
@@ -151,4 +152,7 @@ table{
 }
 .foto{
     width: 50%;
+}
+.zqan{
+    font-size: 15px;
 }

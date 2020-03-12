@@ -67,8 +67,9 @@ h3 {
     margin-top: 0;
 }
  
-p .laos {
-    margin-top: -14px;
+.laos {
+margin-bottom: 0px;
+margin-top: 0px;
 }
  
 .monetki {
@@ -98,12 +99,14 @@ p .laos {
  
 .oneone {
     font-size: 16px;
+    margin-top: 5px;
 }
  
 .cost-second {
     font-weight: 300;
     font-size: 12px;
     color: #7A7A7A;
+    margin-top: -10px;
 }
 
 .vtorayastranica{
@@ -145,6 +148,8 @@ table tr:nth-child(odd){
 table{
     margin-top: 20px;
     font-size: 12px;
+
+   
 }
 .klassdlalinka{
     display: block;
@@ -155,4 +160,15 @@ table{
 }
 .zqan{
     font-size: 15px;
+}
+
+#mirz{
+    font-size: 18px; 
+}
+.newtime{
+    font-weight: bold;
+    font-size: 25px;
+}
+td{
+    padding: 6px;
 }
